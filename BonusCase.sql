@@ -1,5 +1,4 @@
--- Data in this table
-CREATE TABLE OC_Chores (
+-- Client data will be stored hereCREATE TABLE OC_Chores (
     CustomerID      INTEGER,
     FirstName       VARCHAR(30),
     LastName        VARCHAR(30),
